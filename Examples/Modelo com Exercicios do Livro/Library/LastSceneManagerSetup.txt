@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cenas/Cenas Exercicio Livro/Exercicio 4/Exercicio 4.unity
+  isLoaded: 1
+  isActive: 1

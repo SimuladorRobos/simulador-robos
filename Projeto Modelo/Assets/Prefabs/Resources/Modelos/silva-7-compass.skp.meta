@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 382f46db94aa58a409882cb585ebdcdc
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c5b0c19798fdd8cad7028a3b56bc8adf
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.03636822, y: 0.09608821, z: -0.026911344}
+      lookAt: {x: 0.007875869, y: 0.050213177, z: 0.001957245}
+      up: {x: -0.5262525, y: 0.6623854, z: 0.5332016}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: E
+    100002: N
+    100004: N#1
+    100006: S
+    100008: SILVA
+    100010: //RootNode
+    100012: W
+    400000: E
+    400002: N
+    400004: N#1
+    400006: S
+    400008: SILVA
+    400010: //RootNode
+    400012: W
+    2300000: E
+    2300002: N
+    2300004: N#1
+    2300006: S
+    2300008: SILVA
+    2300010: //RootNode
+    2300012: W
+    3300000: E
+    3300002: N
+    3300004: N#1
+    3300006: S
+    3300008: SILVA
+    3300010: //RootNode
+    3300012: W
+    4300000: Mesh silva-7-compass
+    4300002: Mesh N
+    4300004: Mesh N#1
+    4300006: Mesh S
+    4300008: Mesh E
+    4300010: Mesh W
+    4300012: Mesh SILVA
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
